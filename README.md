@@ -15,8 +15,8 @@
   
   <h3>My Technologies</h3>
   <div style="display: inline_block"><br>
-    <img text-align="center" alt="Marcelo-html" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>     
-    <img text-align="center" alt="Marcelo-html" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img text-align="center" alt="Marcelo-html" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>     
+    
   </div>
   
   ##
@@ -30,3 +30,5 @@
     <a href="https://github.com/Marcelo-celes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div>
+  
+  ![Snake animation](https://github.com/Marcelo-celes/Marcelo-celes/blob/output/github-contribution-grid-snake.svg)
