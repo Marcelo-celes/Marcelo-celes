@@ -1,7 +1,7 @@
 <h1>Hi guys, my name's Marcelo Antonio.</h1>
 
 - Computer Engineering Student - UNIFACS.
-- Studying Front-end, finalizing CSS.
+- Studying Front-end, starting JavaScript.
  
 ##
 
@@ -15,7 +15,7 @@
   
   <h3>My Technologies</h3>
   <div style="display: inline_block"><br>
-    <img text-align="center" alt="Marcelo-html" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>     
+    <img text-align="center" alt="Marcelo-html" height="70cm" width="70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>     
     
   </div>
   
