@@ -1,7 +1,7 @@
 <h1>Hi guys, my name's Marcelo Antonio.</h1>
 
-- Computer Engineering Student - UNIFACS.
-- Studying Front-end, starting JavaScript.
+- CyberSecurity Student - FIAP.
+- Studying Python, starting JavaScript.
  
 ##
 
