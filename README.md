@@ -1,7 +1,7 @@
 <h1>Hi guys, my name's Marcelo Antonio.</h1>
 
 - CyberSecurity Student - FIAP.
-- Studying Python, starting JavaScript.
+- Studying Python, starting GO, Gamer of Capture the flag.
  
 ##
 
