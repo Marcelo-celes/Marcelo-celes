@@ -15,8 +15,8 @@
   
   <h3>My Technologies</h3>
   <div style="display: inline_block"><br>
-    <img text-align="center" alt="Marcelo-html" height="70cm" width="70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>     
-    
+    <img text-align="center" alt="Marcelo-html" height="70cm" width="70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img text-align="center" alt="Marcelo-html" height="70cm" width="100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
   </div>
   
   ##
